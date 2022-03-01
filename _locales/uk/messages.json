@@ -1,0 +1,467 @@
+{
+  "extensionName": {
+    "message": "Translate Web Pages"
+  },
+  "extensionDescription": {
+    "message": "Перекладіть свою сторінку в реальному часі за допомогою Google або Yandex."
+  },
+  "pageActionTitle": {
+    "message": "Перекласти цю сторінку"
+  },
+  "lblTranslate": {
+    "message": "Перекласти цю сторінку?"
+  },
+  "lblTranslating": {
+    "message": "Перекладається..."
+  },
+  "lblTranslated": {
+    "message": "Перекладено"
+  },
+  "lblError": {
+    "message": "Цю сторінку не вдалося перекласти"
+  },
+  "lblAlwaysTranslate": {
+    "message": "Завжди перекладати з $LANGUAGE_NAME$",
+    "placeholders": {
+      "LANGUAGE_NAME": {
+        "content": "$1",
+        "example": "English"
+      }
+    }
+  },
+  "lblTargetLanguage": {
+    "message": "Target language $TARGET_LANGUAGE_NUM$",
+    "placeholders": {
+      "TARGET_LANGUAGE_NUM": {
+        "content": "$1",
+        "example": "2"
+      }
+    }
+  },
+  "btnReset": {
+    "message": "Скинути"
+  },
+  "btnTranslate": {
+    "message": "Перекласти"
+  },
+  "btnOptions": {
+    "message": "Опції"
+  },
+  "btnRestore": {
+    "message": "Показати оригінал"
+  },
+  "btnTryAgain": {
+    "message": "Спробувати знову"
+  },
+  "btnOpenOnGoogleTranslate": {
+    "message": "Відкрити в перекладачі Google"
+  },
+  "btnDonate": {
+    "message": "Матеріально подякувати"
+  },
+  "btnNeverTranslate": {
+    "message": "Ніколи не перекладати цей сайт"
+  },
+  "btnChangeLanguages": {
+    "message": "Змінити мову"
+  },
+  "btnMobileOriginal": {
+    "message": "Оригінал"
+  },
+  "btnMobileTranslated": {
+    "message": "Перекладено"
+  },
+  "btnMobileNeverTranslate": {
+    "message": "Ніколи не перекладати цей сайт"
+  },
+  "btnMobileDonate": {
+    "message": "Матеріально подякувати"
+  },
+  "optionsNeverTranslate": {
+    "message": "Ніколи не перекладати цей сайт"
+  },
+  "optionsAlwaysTranslate": {
+    "message": "Always translate these languages"
+  },
+  "optionPopupConfig": {
+    "message": "Показати спливаюче вікно для мобільних пристроїв"
+  },
+  "optionPopupAuto": {
+    "message": "Автоматично"
+  },
+  "optionPopupThreeFingers": {
+    "message": "Коли я торкаюся трьома пальцями на екрані"
+  },
+  "msgOpenOnYandexTranslator": {
+    "message": "Відкрити в перекладі Yandex"
+  },
+  "lblOthers": {
+    "message": "Інші"
+  },
+  "btnMoreOptions": {
+    "message": "Більше опцій"
+  },
+  "lblPlsDonate": {
+    "message": "Матеріально подякувати розробнику"
+  },
+  "msgTranslateFor": {
+    "message": "Translate to $LANGUAGE_NAME$",
+    "placeholders": {
+      "LANGUAGE_NAME": {
+        "content": "$1",
+        "example": "English"
+      }
+    }
+  },
+  "lblShowContextMenu": {
+    "message": "Показувати опцію для перекладу сторінки в контекстному меню"
+  },
+  "msgYes": {
+    "message": "Так"
+  },
+  "msgNo": {
+    "message": "Ні"
+  },
+  "lblUseNewAlgorithm": {
+    "message": "Використовувати новий алгоритм перекладу?"
+  },
+  "msgYesRecommended": {
+    "message": "Так (рекомендується)"
+  },
+  "msgNoUseWidgets": {
+    "message": "Ні (використовувати віджети)"
+  },
+  "optionsPageTitle": {
+    "message": "Translate Web Pages - Параметри"
+  },
+  "optionPopupjustWhenIClickTranlateThisSite": {
+    "message": "Лише коли я натисну кнопку \"Перекласти цей сайт\""
+  },
+  "msgEmptyListNeverTranslateSites": {
+    "message": "Ви не додали жодного веб-сайту до цього списку."
+  },
+  "msgEmptyListAlwaysTranslateLanguages": {
+    "message": "Ви не додали жодної мови до цього списку."
+  },
+  "btnAlwaysTranslate": {
+    "message": "Завжди перекладати цей сайт"
+  },
+  "lblAlwaysTranslateSites": {
+    "message": "Завжди перекладати ці сайти"
+  },
+  "msgDonateWithPaypal": {
+    "message": "Зробити пожертву через PayPal"
+  },
+  "lblDarkMode": {
+    "message": "Темний режим"
+  },
+  "lblShowReleaseNotes": {
+    "message": "Показувати нотатки щодо випуску під час оновлення"
+  },
+  "lblShowTranslateSelectedButton": {
+    "message": "Відображати кнопку для перекладу виділеного тексту"
+  },
+  "msgAutomatic": {
+    "message": "Автоматичний"
+  },
+  "msgTranslateSelectedText": {
+    "message": "Перекласти виділений текст"
+  },
+  "lblShowTranslateSelectedContextMenu": {
+    "message": "Показувати опцію для перекладу сторінки в контекстному меню"
+  },
+  "lblNeverTranslateLangs": {
+    "message": "Ніколи не перекладати ці мови"
+  },
+  "btnNeverTranslateThisLanguage": {
+    "message": "Ніколи не перекладайте цю мову"
+  },
+  "lblShowOriginalTextWhenHovering": {
+    "message": "Показувати оригінал під час наведення курсор"
+  },
+  "msgLanguages": {
+    "message": "Мови"
+  },
+  "msgSites": {
+    "message": "Сайти"
+  },
+  "msgTranslations": {
+    "message": "Переклади"
+  },
+  "msgStyle": {
+    "message": "Стиль"
+  },
+  "msgHotkeys": {
+    "message": "Гарячі клавіші"
+  },
+  "lblMakeDonation": {
+    "message": "Зробіть пожертву"
+  },
+  "lblReleaseNotes": {
+    "message": "Примітки до випуску"
+  },
+  "lblReport": {
+    "message": "Повідомити про проблему"
+  },
+  "lblSettings": {
+    "message": "Налаштування"
+  },
+  "lblAdd": {
+    "message": "Додати"
+  },
+  "lblShowTranslatedWhenHovering": {
+    "message": "Показувати перекладений текст при наведенні курсору"
+  },
+  "lblKeyboardShortcuts": {
+    "message": "Гарячі клавіши"
+  },
+  "msgToTranslateSites": {
+    "message": "Для перекладу сайту"
+  },
+  "msgThanksForUseExtension": {
+    "message": "Дякуємо за використання цього розширення."
+  },
+  "msgIWillBeGrateful": {
+    "message": "Буду вдячний, якщо ви зробите пожертву."
+  },
+  "btnAlwaysTranslateThisLanguage": {
+    "message": "Завжди перекладайте цю мову"
+  },
+  "lblShowTranslatedHoveringSites": {
+    "message": "Показувати перекладений текст при наведенні курсору на цих сайтах"
+  },
+  "popupBlueWhenSiteIsTranslated": {
+    "message": "Зробіть спливаючу піктограму блакитною, коли сайт буде перекладено"
+  },
+  "more": {
+    "message": "Більше"
+  },
+  "less": {
+    "message": "Менше"
+  },
+  "dontShowIfPageLangIsTargetLang": {
+    "message": "Не показувати, якщо мова сторінки є цільовою мовою"
+  },
+  "dontShowIfPageLangIsUnknown": {
+    "message": "Не показувати, якщо мова сторінки невідома"
+  },
+  "dontShowIfSelectedTextIsTargetLang": {
+    "message": "Не показувати, чи вибрана мова тексту є цільовою мовою"
+  },
+  "dontShowIfSelectedTextIsUnknown": {
+    "message": "Не показувати, якщо вибрана мова тексту невідома"
+  },
+  "lblShowTranslatedWhenHoveringThisSite": {
+    "message": "Показати переклад під час наведення курсора на цей сайт"
+  },
+  "lblShowTranslatedWhenHoveringThisLang": {
+    "message": "Show translation when hovering over websites in $LANGUAGE_NAME$",
+    "placeholders": {
+      "LANGUAGE_NAME": {
+        "content": "$1",
+        "example": "English"
+      }
+    }
+  },
+  "lblShowTranslatedHoveringLangs": {
+    "message": "Показувати перекладений текст під час наведення курсора на сайти з цими мовами"
+  },
+  "msgNoTranslateSelectedText": {
+    "message": "Не перекладати вибраний текст"
+  },
+  "btnListen": {
+    "message": "Слухай"
+  },
+  "btnStopListening": {
+    "message": "Перестань слухати"
+  },
+  "btnApply": {
+    "message": "Подати заявку"
+  },
+  "swapTranslationService": {
+    "message": "Переключення між перекладацькими службами"
+  },
+  "swapPopup": {
+    "message": "Переключіться між старим та новим інтерфейсом"
+  },
+  "helpSwapInterface": {
+    "message": "Клацніть на цю кнопку, щоб переключитися між старим та новим інтерфейсом."
+  },
+  "lblTranslationService": {
+    "message": "Послуга перекладу"
+  },
+  "msgUseOldPopupInterface": {
+    "message": "Використовуйте старий спливаючий інтерфейс"
+  },
+  "lblTranslateInterface": {
+    "message": "Translate the interface"
+  },
+  "lblButtonInTheAddressBar": {
+    "message": "Show button in the address bar"
+  },
+  "lblPageTranslationService": {
+    "message": "Page translation service"
+  },
+  "lblTextTranslationService": {
+    "message": "Text Translation Service"
+  },
+  "msgStorage": {
+    "message": "Сховище"
+  },
+  "lblTranslationCache": {
+    "message": "Кеш перекладів"
+  },
+  "lblStorageUsed": {
+    "message": "Використано пам'яті:"
+  },
+  "deleteTranslationCache": {
+    "message": "Видалити кеш перекладів"
+  },
+  "lblPersonalSettings": {
+    "message": "Особисті налаштування"
+  },
+  "backupToFile": {
+    "message": "Резервне копіювання до файлу"
+  },
+  "restoreFromFile": {
+    "message": "Відновити з файлу"
+  },
+  "resetToDefault": {
+    "message": "Відновити типові налаштування"
+  },
+  "doYouWantToDeleteTranslationCache": {
+    "message": "Ви дійсно бажаєте видалити кеш перекладів?"
+  },
+  "doYouWantOverwriteAllSettings": {
+    "message": "Ви бажаєте перезаписати всі існуючі налаштування, використовуючи резервні дані?"
+  },
+  "fileIsCorrupted": {
+    "message": "Схоже, файл пошкоджено"
+  },
+  "doYouWantRestoreSettings": {
+    "message": "Ви дійсно бажаєте відновити типові налаштування розширення?"
+  },
+  "lblTtsSpeed": {
+    "message": "Text-to-speech audio speed"
+  },
+  "lblEnableDeepL": {
+    "message": "Enable DeepL as a text translation service"
+  },
+  "enterShortcut": {
+    "message": "Type a shortcut"
+  },
+  "hotkeyError_ctrlOrAlt": {
+    "message": "Include Ctrl or Alt"
+  },
+  "hotkeyError_letter": {
+    "message": "Type a letter"
+  },
+  "hotkeyError_invalid": {
+    "message": "Invalid combination"
+  },
+  "lblSwitchTranslatedAndOriginal": {
+    "message": "Switch between the translated and the original page"
+  },
+  "lblRestorePageToOriginal": {
+    "message": "Restore page to original"
+  },
+  "lblTranslatePageToTargetLanguage": {
+    "message": "Translate the page to the target language"
+  },
+  "lblTranslateTag_pre": {
+    "message": "Enable translation for the tag $HTML_TAG_NAME$",
+    "placeholders": {
+      "HTML_TAG_NAME": {
+        "content": "<PRE>"
+      }
+    }
+  },
+  "lbldontsortresults": {
+    "message": "Do not sort the google translate results"
+  },
+  "lbltranslatedynamicallycreatedcontent": {
+    "message": "Translate dynamically created content"
+  },
+  "calculatestorage": {
+    "message": "Підрахувати"
+  },
+  "donatewithpaypal": {
+    "message": "Donate With PayPal"
+  },
+  "lblAutoTranslateWhenClickingALink": {
+    "message": "Automatically translate when clicking on a link that takes you to the same domain as the current site"
+  },
+  "openNativeShortcutManager": {
+    "message": "Open native shortcut key manager"
+  },
+  "lblKeyboardShortcutsSpecial": {
+    "message": "Special keyboard shortcuts"
+  },
+  "lblTranslateSelectedWhenPressTwice": {
+    "message": "Translate selected text when pressing $SHORTCUT_KEY$ twice",
+    "placeholders": {
+      "SHORTCUT_KEY": {
+        "content": "[Ctrl]"
+      }
+    }
+  },
+  "lblTranslateTextOverMouseWhenPressTwice": {
+    "message": "Translate the text over the mouse cursor when pressing $SHORTCUT_KEY$ twice",
+    "placeholders": {
+      "SHORTCUT_KEY": {
+        "content": "[Ctrl]"
+      }
+    }
+  },
+  "translateClickingOnce": {
+    "message": "Translate the page by clicking once on the button in the address bar. (To see the popup, right-click)"
+  },
+  "btnShowPopup": {
+    "message": "Show popup"
+  },
+  "msgToTranslateThisDocument": {
+    "message": "To translate this document $DOC_TYPE$ it is necessary to convert it to HTML",
+    "placeholders": {
+      "DOC_TYPE": {
+        "content": "$1",
+        "example": "(.pdf)"
+      }
+    }
+  },
+  "msgSelectServiceConversion": {
+    "message": "Select a service to do this conversion"
+  },
+  "msgDownloadingDocument": {
+    "message": "Downloading the document..."
+  },
+  "msgSendDocument": {
+    "message": "Send document"
+  },
+  "msgErrorDownloadingDocument": {
+    "message": "Error downloading document"
+  },
+  "msgFileLargerThan": {
+    "message": "This service does not support files larger than $FILE_SIZE$",
+    "placeholders": {
+      "FILE_SIZE": {
+        "content": "$1",
+        "example": "10 MB"
+      }
+    }
+  },
+  "msgPDFtoHTML": {
+    "message": "PDF to HTML"
+  },
+  "btncopy": {
+    "message": "Copy"
+  },
+  "msgRecents": {
+    "message": "Recents"
+  },
+  "msgAll": {
+    "message": "All"
+  },
+  "msgPleaseWait": {
+    "message": "Зачекайте..."
+  }
+}
