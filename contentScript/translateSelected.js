@@ -148,7 +148,7 @@ Promise.all([ twpConfig.onReady(), getTabHostName() ]).then(function (_) {
 				<div id="eOrigText" contentEditable="true" spellcheck="false" dir="auto"></div>
 				<hr>
 			</div>
-			<div id="eSelTextTrans" dir="auto"></div>
+			<div id="eSelTextTrans" dir="auto" style="border-bottom: 2px dotted grey"></div>
 			<div id="drag">
 				<ul id="setTargetLanguage">
 					<li value="en" title="English">en</li>
